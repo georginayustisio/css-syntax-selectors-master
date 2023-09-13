@@ -10,7 +10,7 @@ h1, h2, h3 {
     color: orange;
 }
 
-.quote-narrator p {
+.quote.narrator {
     outline-style: dashed;
     outline-color: cadetblue;
 }
