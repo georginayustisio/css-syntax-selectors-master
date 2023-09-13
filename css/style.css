@@ -1,0 +1,21 @@
+body {
+    font-style: italic;
+}
+
+h1, h2, h3 {
+    background-color: pink;
+}
+
+.quote {
+    color: orange;
+}
+
+.quote-narrator p {
+    outline-style: dashed;
+    outline-color: cadetblue;
+}
+
+#intro p {
+    color: blue;
+    transform:scale(0.9);
+}
